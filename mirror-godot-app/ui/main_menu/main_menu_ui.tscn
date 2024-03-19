@@ -129,10 +129,10 @@ grow_vertical = 2
 metadata/_edit_use_anchors_ = true
 
 [node name="Home" parent="Pages" instance=ExtResource("4_ra4e2")]
-visible = false
 layout_mode = 1
 
 [node name="My_Spaces" parent="Pages" instance=ExtResource("6_dxmr5")]
+visible = false
 layout_mode = 1
 
 [node name="Discover" parent="Pages" instance=ExtResource("7_al6u3")]
